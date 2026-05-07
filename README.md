@@ -8,7 +8,9 @@ https://doi.org/10.5061/dryad.70rxwdcd4
 Users must manually download the file Narrabeen_Shoreline_Dataset_v1.csv and update the file path in the notebook before running the code.
 
 This notebook accompanies the publication currently in review for Scientific Data:
+
 "A 91-year multi-method shoreline dataset from sub-daily to decadal time scales at Narrabeen-Collaroy Beach, Australia"
+https://doi.org/10.21203/rs.3.rs-9461775/v1
 
 by
 Mitchell D. Harley, Raimundo Ibaceta1, Ian L. Turner1, Kristen D. Splinter, Melissa Bracs, Yarran Doherty, Nashwan Matheen, Jason H. Middleton, Matthew Phillips, Kilian Vos1, Andrew D. Short 
